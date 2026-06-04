@@ -1,0 +1,8 @@
+com.example.teamtaskerapp-pngs-0 C:\Users\anura\StudioProjects\TeamTaskerApp\app\build\generated\res\pngs\debug
+com.example.teamtaskerapp-updated_navigation_xml-1 C:\Users\anura\StudioProjects\TeamTaskerApp\app\build\generated\updated_navigation_xml\debug
+com.example.teamtaskerapp-packageDebugResources-2 C:\Users\anura\StudioProjects\TeamTaskerApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.teamtaskerapp-packageDebugResources-3 C:\Users\anura\StudioProjects\TeamTaskerApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.teamtaskerapp-debug-4 C:\Users\anura\StudioProjects\TeamTaskerApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.teamtaskerapp-debug-5 C:\Users\anura\StudioProjects\TeamTaskerApp\app\src\debug\res
+com.example.teamtaskerapp-main-6 C:\Users\anura\StudioProjects\TeamTaskerApp\app\src\main\res
+gradleHome-0 C:\Users\anura\.gradle
